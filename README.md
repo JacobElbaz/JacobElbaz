@@ -6,10 +6,13 @@
 
 <p align="center" style="background-color: #fff;">
   <img src="https://github.com/JacobElbaz/JacobElbaz/assets/73593531/623ad979-eeee-45ce-a15c-2dc3b554fd33" alt="js" width="45" height="45"/>
+  <img src="https://github.com/user-attachments/assets/5a02b4ea-f603-41b2-8524-bc4970d80e37" alt="ts" width="45" height="45"/>
   <img src="https://github.com/JacobElbaz/JacobElbaz/assets/73593531/87b9a139-e270-4fa2-8914-bc2389f5e0a4" alt="react" width="45" height="45"/>
   <img src="https://github.com/JacobElbaz/JacobElbaz/assets/73593531/9847864e-c358-459b-86c3-9e53c2174224" alt="next" width="45" height="45"/>
   <img src="https://github.com/JacobElbaz/JacobElbaz/assets/73593531/c6480c13-94e9-4107-90d0-c4898b156a7d" alt="node" width="45" height="45"/>
+  <img src="https://github.com/user-attachments/assets/1328a1ca-16df-42d1-9fb9-9e48bc4383c6" alt="nest" width="45" height="45"/>
   <img src="https://github.com/JacobElbaz/JacobElbaz/assets/73593531/e17834ff-feff-4eab-8493-b23b5797b90b" alt="mongo" width="45" height="45"/>
+  <img src="https://github.com/user-attachments/assets/d22f4660-10c8-46fd-83af-90a96b98d328" alt="postgres" width="45" height="45"/>
 </p>
 
 # Hello, World! 👋
