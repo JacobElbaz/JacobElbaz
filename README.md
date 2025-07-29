@@ -38,7 +38,16 @@ Welcome to my GitHub profile! I'm Jacob Elbaz, a passionate self-taught FullStac
 - NestJS / Express
 - MongoDB (NoSQL) / PostgreSQL (SQL)
 
-💼 **Professional Experience:** I am currently working as a Fullstack Engineer, collaborating with startups like Kainotom IA (Limova.ai & Movali.ai) and XForce Consulting. My role spans from backend architecture to frontend implementation, consistently delivering scalable and high-performance features across React, NestJS, and cloud platforms like Azure. I have also developed and published a mobile application using React Native, available on Google Play and App Store, which showcases my ability to deliver complete cross-platform solutions from design to deployment.
+💼 **Professional Experience:** 
+
+I’m a Fullstack Engineer currently working at [Limova.ai](https://limova.ai/en), where I design and build AI-powered SaaS solutions with a focus on performance, scalability, and user experience. I work across the entire stack using technologies like React, NestJS, MongoDB, and Azure.
+
+📱 I also developed and published a cross-platform mobile application for [Kaspenu](https://kaspenu.org/english) using React Native, now available on:
+
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.kaspenu2.mobile)
+- [Apple App Store](https://apps.apple.com/us/app/%D7%9B%D7%A1%D7%A4%D7%A0%D7%95-%D7%94%D7%A1%D7%A8%D7%99%D7%A7%D7%94-%D7%94%D7%97%D7%9B%D7%9E%D7%94/id6740878730)
+
+🛠️ I’ve also worked with other clients like XForce Consulting, building secure and performant platforms tailored to their business needs.
 
 ## Let's Connect!
 
