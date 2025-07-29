@@ -38,18 +38,12 @@ Welcome to my GitHub profile! I'm Jacob Elbaz, a passionate self-taught FullStac
 - NestJS / Express
 - MongoDB (NoSQL) / PostgreSQL (SQL)
 
-💼 **Professional Experience:** I currently channel my passion for coding into freelance work as a Fullstack Engineer. My projects are a testament to my dedication to quality and functionality.
-
-🌱 **Continuous Learning:** The world of technology never stands still, and neither do I. I'm always on the lookout for the latest trends and best practices to elevate my skills and create exceptional solutions.
-
-## What Motivates Me
-
-I believe that every line of code I write has the power to make a difference. My goal is to create digital experiences that are not only aesthetically pleasing but also user-centric and efficient. The thrill of solving complex problems and the joy of seeing my projects come to life keep me motivated and inspired.
+💼 **Professional Experience:** I am currently working as a Fullstack Engineer, collaborating with startups like Kainotom IA (Limova.ai & Movali.ai) and XForce Consulting. My role spans from backend architecture to frontend implementation, consistently delivering scalable and high-performance features across React, NestJS, and cloud platforms like Azure. I have also developed and published a mobile application using React Native, available on Google Play and App Store, which showcases my ability to deliver complete cross-platform solutions from design to deployment.
 
 ## Let's Connect!
 
-Are you as passionate about technology as I am? Let's connect and collaborate! Whether you're interested in discussing potential projects, sharing ideas, or just geeking out over the latest tech trends, I'd love to hear from you. Feel free to reach out through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/jacob-elbaz).
+Let's connect and collaborate! Whether you're interested in discussing potential projects, or sharing ideas, I'd love to hear from you. Feel free to reach out through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/jacob-elbaz).
 
-Thank you for visiting my GitHub profile. Here's to coding, creating, and conquering the tech world, one project at a time! 🚀🔥
+Thank you for visiting my GitHub profile. 🚀🔥
 
  
