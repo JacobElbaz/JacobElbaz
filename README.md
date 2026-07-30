@@ -2,9 +2,11 @@
 
 # Jacob Elbaz
 
-Full-Stack Engineer
+**Full-Stack Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;Building+AI-powered+products)](https://git.io/typing-svg)
+Building scalable web, mobile and AI-powered applications.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=2500\&center=true\&vCenter=true\&width=500\&lines=TypeScript+%7C+React+%7C+NestJS;React+Native+%7C+Node.js+%7C+PostgreSQL;Building+AI-powered+products)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,61 +25,76 @@ Full-Stack Engineer
 
 ## About
 
-Full-Stack Engineer based in Israel.
+I'm a Full-Stack Engineer with experience building SaaS platforms, AI-powered products, internal tools and mobile applications.
 
-I build scalable web and mobile applications, with a strong focus on product development, backend architecture, and AI integrations.
+My work focuses on designing scalable backend architectures, developing modern frontend applications, and integrating AI services into production systems.
 
-Over the past few years, I've worked across startups and client projects, building SaaS platforms, mobile applications, internal tools, and AI-powered products.
-
-## Tech
-
-**Frontend**
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Material UI
-
-**Backend**
-
-- Node.js
-- NestJS
-- Express
-- REST APIs
-
-**Databases**
-
-- MongoDB
-- PostgreSQL
-
-**Cloud & DevOps**
-
-- Azure
-- Docker
-- Vercel
-- Railway
-- GitHub Actions
-
-## Selected Work
-
-### RealPlay
-Building AI-powered products and scalable backend services.
-
-### Limova.ai
-
-Development of AI SaaS products focused on automation and user experience.
-
-### Kaspenu
-
-Cross-platform React Native application available on iOS and Android.
-
-### XForce Consulting
-
-Development of business applications and custom software solutions.
+Most of my projects are built with TypeScript across the entire stack.
 
 ---
 
-## Contact
+## Tech Stack
 
-- LinkedIn: https://linkedin.com/in/jacob-elbaz
+### Frontend
+
+* React
+* Next.js
+* React Native
+* TypeScript
+* Tailwind CSS
+* Material UI
+
+### Backend
+
+* Node.js
+* NestJS
+* Express
+* REST APIs
+* WebSockets
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+
+### Cloud & DevOps
+
+* Azure
+* Docker
+* GitHub Actions
+* Vercel
+* Railway
+
+---
+
+## Experience
+
+### Full-Stack Engineer
+
+Building production-ready applications with a focus on scalability, performance and maintainability.
+
+Projects include:
+
+* AI-powered SaaS platforms
+* Cross-platform mobile applications
+* Internal business tools
+* Third-party API integrations
+* Authentication & payment systems
+* OCR and document processing
+* Real-time applications
+
+---
+
+## Currently interested in
+
+* Artificial Intelligence
+* Backend Architecture
+* Distributed Systems
+* Product Engineering
+* Developer Experience
+
+---
+
+## Connect
+
+* LinkedIn: https://linkedin.com/in/jacob-elbaz
