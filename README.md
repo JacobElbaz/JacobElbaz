@@ -21,7 +21,7 @@ Building scalable web, mobile and AI-powered applications.
   <img src="https://github.com/user-attachments/assets/d22f4660-10c8-46fd-83af-90a96b98d328" width="45"/>
 </p>
 
----
+
 
 ## About
 
@@ -31,7 +31,7 @@ My work focuses on designing scalable backend architectures, developing modern f
 
 Most of my projects are built with TypeScript across the entire stack.
 
----
+
 
 ## Connect
 
